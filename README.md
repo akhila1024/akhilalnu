@@ -1,4 +1,4 @@
-# hi, i'm akhila 👋
+# Hi, i'm Akhila 👋
 
 frontend developer focused on **react + typescript**, building clean, accessible ui with **shadcn/ui**, **tailwindcss**, and **tanstack query**.
 
